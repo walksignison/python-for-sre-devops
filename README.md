@@ -38,3 +38,12 @@ i. Keeps the 3 most recent releases
 ii. Keeps the current version
 
 iii. Deletes all other releases not covered by i. and ii. that are older than 30 days
+
+References:
+https://github.com/tuladhar/Python-for-SysAdmin-Part-I
+https://github.com/ioggstream/python-course
+https://github.com/endavis/sysadmin
+https://github.com/Apress/pro-python-system-admin-14
+https://github.com/linuxacademy/content-python-for-sys-admins
+https://github.com/linuxacademy/content-python3-sysadmin
+
