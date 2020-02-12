@@ -1,4 +1,4 @@
-1. From `/etc/passwd` print all lines (along with line numbers) containing the string `/bin/bash`.
+1. Print all lines (along with line numbers) containing the string `/bin/bash` from  `/etc/passwd`.
 2. Get current weather information from `http://api.openweathermap.org` based on zip code passed as a command line argument. 
 3. Write a client to test connectivity to a particular socket, IP address and port number to be passed in via command line. 
 4. Output the Python version installed, OS version, modules in search path and total modules loaded using `sys`.
